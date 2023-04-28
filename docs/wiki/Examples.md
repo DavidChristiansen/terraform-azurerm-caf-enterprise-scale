@@ -17,6 +17,7 @@ Use the links below to explore these examples in more detail.
 - [Deploy management resources][wiki_deploy_management_resources]
 - [Assign a built-in policy][wiki_assign_a_built_in_policy]
 - [Create and assign custom RBAC roles][wiki_create_and_assign_custom_rbac_roles]
+- [Set parameter values for Policy Assignments](wiki_set_parameter_values_for_policy_assignments)
 
 ### Advanced (Level 300)
 
